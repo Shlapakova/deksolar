@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:2.1
+N;CHARSET=utf-8:Fronius Polska Sp. z o.o. 
+FN;CHARSET=utf-8:Fronius Polska Sp. z o.o. 
+ORG;CHARSET=utf-8:Fronius Polska Sp. z o.o. 
+ADR;WORK;PREF:;;Ul. Eiffel'a 8;PL-44-109 Gliwice;;
+TEL;WORK;VOICE:0048/
+TEL;WORK;FAX:0048/
+URL;WORK:
+EMAIL;PREF;INTERNET:
+REV:2020-09-11T09:31:52.4088148+02:00
+END:VCARD
