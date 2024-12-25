@@ -15,7 +15,6 @@
         <!-- Ukrycie przed przeglądarkami nieobsługującymi JavaScript
         function obsluga_zdarzenia(obj, id, mSetValue){
             var floatValue = (parseFloat(obj.value.replace(",",".")));
-        	
             if (isNaN (floatValue)){
                 document.getElementById(id).innerHTML = 'Blad';
                 obj.focus();
